@@ -29,7 +29,7 @@
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          san pham
+          Dropdown
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="#">Action</a>
@@ -63,7 +63,7 @@
         </div><!--end row2-->
         <div class="row">
             <div class="col-md-8">
-                content
+               trang gioi thieu
             </div>
             <div class="col-md-4">
                 bar
